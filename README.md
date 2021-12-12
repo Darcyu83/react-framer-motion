@@ -1,3 +1,3 @@
-# Nomad coder Challenge PJT 
+# Nomad coder Challenge PJT
 
- https://darcyu83.github.io/nomad-coder-challenge/
+https://darcyu83.github.io/react-framer-motion/
