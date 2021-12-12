@@ -1,5 +1,6 @@
 {
-  "name": "nomad-challenge",
+  "name": "react-framer-motion",
+  "homepage": "https://darcyu83.github.io/react-framer-motion/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
